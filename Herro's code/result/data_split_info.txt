@@ -1,2 +1,0 @@
-Training set size: (91241, 315)
-Testing set size: (22811, 315)
