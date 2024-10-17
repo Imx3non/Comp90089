@@ -29,9 +29,10 @@
 - `XGBoost.py`: Python script to run the XGBoost model and store the results.
 - Output files:
   - `final_data_with_icd.csv`: Data prepared from the first step.
-  - `final_data.csv`: Filtered ICD code data.
-  - `final_data_with_long_titles.csv`: Final dataset with long titles.and Remove race factor
-  - `result` folder: Stores model training results.
+  - `data.zip`: Stores data we processed.
+     - `final_data.csv`: Filtered ICD code data.
+     - `final_data_with_long_titles.csv`: Final dataset with long titles.And Remove "race" factor
+     - `result` folder: Stores model training results.
 
 ## Prerequisites
 
