@@ -1,4 +1,0 @@
-Class distribution after resampling:
-stroke
-0    18268
-1    18268
