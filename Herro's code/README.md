@@ -30,7 +30,7 @@
 - Output files:
   - `final_data_with_icd.csv`: Data prepared from the first step.
   - `final_data.csv`: Filtered ICD code data.
-  - `final_data_with_long_titles.csv`: Final dataset with long titles.
+  - `final_data_with_long_titles.csv`: Final dataset with long titles.and Remove race factor
   - `result` folder: Stores model training results.
 
 ## Prerequisites
