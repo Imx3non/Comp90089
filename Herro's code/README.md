@@ -11,7 +11,7 @@
 - Run the `process_icdcode.py` script. This script cuts the `icd_code` and filters out the ICD codes based on their usage frequency.
 - The output of this step is saved as `final_data.csv`.
 
-### 3. Adding Long Titles (`add_longtitle.ipynb`)
+### 3. Adding icd_code's long_titles  (`add_longtitle.ipynb`)
 
 - Run the Jupyter notebook `add_longtitle.ipynb` to add long titles to the ICD codes for better matching.
 - This step will produce the file `final_data_with_long_titles.csv`, which is the final dataset.
