@@ -1,0 +1,316 @@
+Feature_Cleaned,Importance,Feature_Original
+Acute_respiratory_failure_51881_,0.058825187,Acute respiratory failure[51881]
+"Acute_kidney_failure,_unspecified_5849_",0.027467847,"Acute kidney failure, unspecified[5849]"
+Personal_history_of_tobacco_use_V1582_,0.02437036,Personal history of tobacco use[V1582]
+"Acute_kidney_failure,_unspecified_N179_",0.022084977,"Acute kidney failure, unspecified[N179]"
+"Hyperlipidemia,_unspecified_E785_",0.020872504,"Hyperlipidemia, unspecified[E785]"
+race_BLACK_AFRICAN_AMERICAN,0.02017077,race_BLACK/AFRICAN AMERICAN
+Personal_history_of_nicotine_dependence_Z87891_,0.019530227,Personal history of nicotine dependence[Z87891]
+Acidosis_2762_,0.019098867,Acidosis[2762]
+Long-term_(current)_use_of_insulin_V5867_,0.017910697,Long-term (current) use of insulin[V5867]
+"Personal_history_of_transient_ischemic_attack_(TIA),_and_cerebral_infarction_without_residual_deficits_V1254_",0.017679725,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits[V1254]"
+Long-term_(current)_use_of_anticoagulants_V5861_,0.01709957,Long-term (current) use of anticoagulants[V5861]
+Acute_posthemorrhagic_anemia_2851_,0.016014105,Acute posthemorrhagic anemia[2851]
+"Congestive_heart_failure,_unspecified_4280_",0.014875651,"Congestive heart failure, unspecified[4280]"
+Accidents_occurring_in_residential_institution_E8497_,0.01387594,Accidents occurring in residential institution[E8497]
+Gastro-esophageal_reflux_disease_without_esophagitis_K219_,0.013064256,Gastro-esophageal reflux disease without esophagitis[K219]
+Unspecified_essential_hypertension_4019_,0.012732158,Unspecified essential hypertension[4019]
+Long-term_(current)_use_of_aspirin_V5866_,0.012362819,Long-term (current) use of aspirin[V5866]
+"Anemia,_unspecified_2859_",0.01225602,"Anemia, unspecified[2859]"
+Esophageal_reflux_53081_,0.012030491,Esophageal reflux[53081]
+Unspecified_acquired_hypothyroidism_2449_,0.0113457795,Unspecified acquired hypothyroidism[2449]
+Percutaneous_transluminal_coronary_angioplasty_status_V4582_,0.011237931,Percutaneous transluminal coronary angioplasty status[V4582]
+"Depressive_disorder,_not_elsewhere_classified_311_",0.011159697,"Depressive disorder, not elsewhere classified[311]"
+Atrial_fibrillation_42731_,0.01055734,Atrial fibrillation[42731]
+Other_and_unspecified_hyperlipidemia_2724_,0.010118959,Other and unspecified hyperlipidemia[2724]
+Acute_respiratory_failure_with_hypoxia_J9601_,0.0099059865,Acute respiratory failure with hypoxia[J9601]
+Physical_restraints_status_V4987_,0.009735982,Physical restraints status[V4987]
+Hyposmolality_and_or_hyponatremia_2761_,0.008720479,Hyposmolality and/or hyponatremia[2761]
+race_SOUTH_AMERICAN,0.008712774,race_SOUTH AMERICAN
+race_WHITE,0.008533148,race_WHITE
+race_HISPANIC_LATINO_-_PUERTO_RICAN,0.008390017,race_HISPANIC/LATINO - PUERTO RICAN
+Person_boarding_or_alighting_a_pedal_cycle_injured_in_collision_with_fixed_or_stationary_object_V173_,0.008389604,Person boarding or alighting a pedal cycle injured in collision with fixed or stationary object[V173]
+Acidosis_E872_,0.007883334,Acidosis[E872]
+race_AMERICAN_INDIAN_ALASKA_NATIVE,0.007849067,race_AMERICAN INDIAN/ALASKA NATIVE
+race_HISPANIC_LATINO_-_DOMINICAN,0.007696694,race_HISPANIC/LATINO - DOMINICAN
+race_HISPANIC_LATINO_-_CUBAN,0.007491854,race_HISPANIC/LATINO - CUBAN
+race_BLACK_CARIBBEAN_ISLAND,0.0073994696,race_BLACK/CARIBBEAN ISLAND
+race_OTHER,0.007284285,race_OTHER
+"Alcohol_abuse,_unspecified_30500_",0.007220794,"Alcohol abuse, unspecified[30500]"
+"Major_depressive_disorder,_single_episode,_unspecified_F329_",0.006958386,"Major depressive disorder, single episode, unspecified[F329]"
+"Nicotine_dependence,_cigarettes,_uncomplicated_F17210_",0.006952645,"Nicotine dependence, cigarettes, uncomplicated[F17210]"
+Acute_posthemorrhagic_anemia_D62_,0.0068247337,Acute posthemorrhagic anemia[D62]
+Long_term_(current)_use_of_anticoagulants_Z7901_,0.006648771,Long term (current) use of anticoagulants[Z7901]
+"Surgical_operation_with_anastomosis,_bypass,_or_graft,_with_natural_or_artificial_tissues_used_as_implant_causing_abnormal_patient_reaction,_or_later_complication,_without_mention_of_misadventure_at_time_of_operation_E8782_",0.0066428916,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation[E8782]"
+"Anemia,_unspecified_D649_",0.0065887943,"Anemia, unspecified[D649]"
+"Anxiety_disorder,_unspecified_F419_",0.0065556485,"Anxiety disorder, unspecified[F419]"
+Hematoma_complicating_a_procedure_99812_,0.006519939,Hematoma complicating a procedure[99812]
+race_BLACK_AFRICAN,0.006114265,race_BLACK/AFRICAN
+Atherosclerotic_heart_disease_of_native_coronary_artery_without_angina_pectoris_I2510_,0.0059550926,Atherosclerotic heart disease of native coronary artery without angina pectoris[I2510]
+"Other_disorders_of_plasma-protein_metabolism,_not_elsewhere_classified_E8809_",0.005949872,"Other disorders of plasma-protein metabolism, not elsewhere classified[E8809]"
+race_WHITE_-_OTHER_EUROPEAN,0.0058873496,race_WHITE - OTHER EUROPEAN
+race_ASIAN,0.005865396,race_ASIAN
+Other_specified_cardiac_dysrhythmias_42789_,0.005833092,Other specified cardiac dysrhythmias[42789]
+Unspecified_atrial_fibrillation_I4891_,0.0057850517,Unspecified atrial fibrillation[I4891]
+race_UNKNOWN,0.005603896,race_UNKNOWN
+Need_for_prophylactic_vaccination_and_inoculation_against_influenza_V0481_,0.005299788,Need for prophylactic vaccination and inoculation against influenza[V0481]
+Knee_joint_replacement_V4365_,0.005263663,Knee joint replacement[V4365]
+race_ASIAN_-_CHINESE,0.005160097,race_ASIAN - CHINESE
+Personal_history_of_malignant_neoplasm_of_prostate_V1046_,0.005078271,Personal history of malignant neoplasm of prostate[V1046]
+"Surgical_operation_with_implant_of_artificial_internal_device_causing_abnormal_patient_reaction,_or_later_complication,without_mention_of_misadventure_at_time_of_operation_E8781_",0.0050749085,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation[E8781]"
+race_HISPANIC_OR_LATINO,0.0050629703,race_HISPANIC OR LATINO
+"Other_specified_surgical_operations_and_procedures_causing_abnormal_patient_reaction,_or_later_complication,_without_mention_of_misadventure_at_time_of_operation_E8788_",0.0049283653,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation[E8788]"
+Person_on_outside_of_bus_injured_in_collision_with_pedestrian_or_animal_in_traffic_accident_V707_,0.0048584333,Person on outside of bus injured in collision with pedestrian or animal in traffic accident[V707]
+Pure_hypercholesterolemia_2720_,0.004613832,Pure hypercholesterolemia[2720]
+Non-ST_elevation_(NSTEMI)_myocardial_infarction_I214_,0.00447132,Non-ST elevation (NSTEMI) myocardial infarction[I214]
+Pneumonitis_due_to_inhalation_of_food_or_vomitus_5070_,0.0044281622,Pneumonitis due to inhalation of food or vomitus[5070]
+"Obesity,_unspecified_27800_",0.00442647,"Obesity, unspecified[27800]"
+Hypo-osmolality_and_hyponatremia_E871_,0.0044005574,Hypo-osmolality and hyponatremia[E871]
+Renal_dialysis_status_V4511_,0.004389778,Renal dialysis status[V4511]
+Person_boarding_or_alighting_a_pedal_cycle_injured_in_collision_with_pedestrian_or_animal_V103_,0.0043659476,Person boarding or alighting a pedal cycle injured in collision with pedestrian or animal[V103]
+Other_postprocedural_status_V4589_,0.004163302,Other postprocedural status[V4589]
+"Thrombocytopenia,_unspecified_2875_",0.0040561957,"Thrombocytopenia, unspecified[2875]"
+race_BLACK_CAPE_VERDEAN,0.0040197945,race_BLACK/CAPE VERDEAN
+Cerebral_edema_3485_,0.0040112347,Cerebral edema[3485]
+Severe_sepsis_with_septic_shock_R6521_,0.003919703,Severe sepsis with septic shock[R6521]
+Other_musculoskeletal_symptoms_referable_to_limbs_72989_,0.0038894438,Other musculoskeletal symptoms referable to limbs[72989]
+age,0.003838497,age
+gender,0.0037881208,gender
+race_WHITE_-_RUSSIAN,0.0037865497,race_WHITE - RUSSIAN
+Aortocoronary_bypass_status_V4581_,0.003756065,Aortocoronary bypass status[V4581]
+Personal_history_of_colonic_polyps_V1272_,0.0035778387,Personal history of colonic polyps[V1272]
+"Chronic_airway_obstruction,_not_elsewhere_classified_496_",0.003563583,"Chronic airway obstruction, not elsewhere classified[496]"
+race_WHITE_-_EASTERN_EUROPEAN,0.0035535304,race_WHITE - EASTERN EUROPEAN
+race_ASIAN_-_ASIAN_INDIAN,0.0035501805,race_ASIAN - ASIAN INDIAN
+Long-term_(current)_use_of_antiplatelet_antithrombotic_V5863_,0.0035496422,Long-term (current) use of antiplatelet/antithrombotic[V5863]
+Long_term_(current)_use_of_antithrombotics_antiplatelets_Z7902_,0.0034967386,Long term (current) use of antithrombotics/antiplatelets[Z7902]
+"Urinary_tract_infection,_site_not_specified_N390_",0.0034656518,"Urinary tract infection, site not specified[N390]"
+Encounter_for_palliative_care_Z515_,0.0034451778,Encounter for palliative care[Z515]
+"Chronic_kidney_disease,_unspecified_N189_",0.003428584,"Chronic kidney disease, unspecified[N189]"
+Syncope_and_collapse_7802_,0.0033409675,Syncope and collapse[7802]
+Compression_of_brain_3484_,0.0033158609,Compression of brain[3484]
+Person_on_outside_of_heavy_transport_vehicle_injured_in_collision_with_other_nonmotor_vehicle_in_traffic_accident_V667_,0.003239903,Person on outside of heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident[V667]
+Hyperosmolality_and_or_hypernatremia_2760_,0.003178544,Hyperosmolality and/or hypernatremia[2760]
+Long-term_(current)_use_of_steroids_V5865_,0.0031584557,Long-term (current) use of steroids[V5865]
+"Gout,_unspecified_2749_",0.0030845157,"Gout, unspecified[2749]"
+"Coronary_atherosclerosis_of_unspecified_type_of_vessel,_native_or_graft_41400_",0.0030566945,"Coronary atherosclerosis of unspecified type of vessel, native or graft[41400]"
+Type_2_diabetes_mellitus_without_complications_E119_,0.0030438593,Type 2 diabetes mellitus without complications[E119]
+Paralytic_ileus_5601_,0.0030318596,Paralytic ileus[5601]
+"Pneumonia,_organism_unspecified_486_",0.0029832162,"Pneumonia, organism unspecified[486]"
+race_NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER,0.0029604095,race_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+"Tachycardia,_unspecified_7850_",0.0029544998,"Tachycardia, unspecified[7850]"
+Intestinal_infection_due_to_Clostridium_difficile_00845_,0.0028903182,Intestinal infection due to Clostridium difficile[00845]
+"Obesity,_unspecified_E669_",0.0028242483,"Obesity, unspecified[E669]"
+Delirium_due_to_conditions_classified_elsewhere_2930_,0.0028170315,Delirium due to conditions classified elsewhere[2930]
+Coronary_atherosclerosis_of_native_coronary_artery_41401_,0.002752881,Coronary atherosclerosis of native coronary artery[41401]
+"Retention_of_urine,_unspecified_78820_",0.0027214317,"Retention of urine, unspecified[78820]"
+Other_fluid_overload_27669_,0.0027195716,Other fluid overload[27669]
+Home_accidents_E8490_,0.0027073806,Home accidents[E8490]
+Hypopotassemia_2768_,0.0026652045,Hypopotassemia[2768]
+"Hypothyroidism,_unspecified_E039_",0.0026370254,"Hypothyroidism, unspecified[E039]"
+Intracerebral_hemorrhage_431_,0.0025876884,Intracerebral hemorrhage[431]
+Long-term_(current)_use_of_other_medications_V5869_,0.0024830666,Long-term (current) use of other medications[V5869]
+Hypoxemia_R0902_,0.0023684322,Hypoxemia[R0902]
+Other_postoperative_infection_99859_,0.002322662,Other postoperative infection[99859]
+"Anxiety_state,_unspecified_30000_",0.0023035991,"Anxiety state, unspecified[30000]"
+Obstructive_sleep_apnea_(adult)_(pediatric)_G4733_,0.0022407474,Obstructive sleep apnea (adult) (pediatric)[G4733]
+Other_malaise_and_fatigue_78079_,0.0022269858,Other malaise and fatigue[78079]
+Paroxysmal_atrial_fibrillation_I480_,0.0022115037,Paroxysmal atrial fibrillation[I480]
+Alcohol_withdrawal_29181_,0.0022077428,Alcohol withdrawal[29181]
+Antineoplastic_and_immunosuppressive_drugs_causing_adverse_effects_in_therapeutic_use_E9331_,0.0021960915,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use[E9331]
+Cholangitis_5761_,0.002126154,Cholangitis[5761]
+race_PATIENT_DECLINED_TO_ANSWER,0.0021193672,race_PATIENT DECLINED TO ANSWER
+Aortic_valve_disorders_4241_,0.0021122003,Aortic valve disorders[4241]
+"Insomnia,_unspecified_78052_",0.0020980698,"Insomnia, unspecified[78052]"
+Other_ascites_78959_,0.0020903153,Other ascites[78959]
+"Urinary_tract_infection,_site_not_specified_5990_",0.0020294022,"Urinary tract infection, site not specified[5990]"
+"Constipation,_unspecified_56400_",0.0020264704,"Constipation, unspecified[56400]"
+Suicidal_ideation_V6284_,0.0019031831,Suicidal ideation[V6284]
+Accidents_occurring_in_unspecified_place_E8499_,0.0018973198,Accidents occurring in unspecified place[E8499]
+Morbid_obesity_27801_,0.0018289624,Morbid obesity[27801]
+Ventilator_associated_pneumonia_99731_,0.0018091516,Ventilator associated pneumonia[99731]
+Benign_prostatic_hyperplasia_without_lower_urinary_tract_symptoms_N400_,0.0017930598,Benign prostatic hyperplasia without lower urinary tract symptoms[N400]
+"Migraine,_unspecified,_without_mention_of_intractable_migraine_without_mention_of_status_migrainosus_34690_",0.0017558218,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus[34690]"
+Diaphragmatic_hernia_without_mention_of_obstruction_or_gangrene_5533_,0.0017513994,Diaphragmatic hernia without mention of obstruction or gangrene[5533]
+Benign_essential_hypertension_4011_,0.0017487796,Benign essential hypertension[4011]
+Hyperpotassemia_2767_,0.0017482346,Hyperpotassemia[2767]
+Cardiac_arrest_4275_,0.0017308526,Cardiac arrest[4275]
+Abnormality_of_gait_7812_,0.0017239355,Abnormality of gait[7812]
+Anemia_of_other_chronic_disease_28529_,0.0016543649,Anemia of other chronic disease[28529]
+Occlusion_and_stenosis_of_carotid_artery_without_mention_of_cerebral_infarction_43310_,0.0016442088,Occlusion and stenosis of carotid artery without mention of cerebral infarction[43310]
+"Streptococcus_infection_in_conditions_classified_elsewhere_and_of_unspecified_site,_streptococcus,_group_D__Enterococcus__04104_",0.0016298916,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus][04104]"
+Intermediate_coronary_syndrome_4111_,0.0016066378,Intermediate coronary syndrome[4111]
+"Unspecified_asthma,_uncomplicated_J45909_",0.0015994677,"Unspecified asthma, uncomplicated[J45909]"
+"Chest_pain,_unspecified_78650_",0.0015895324,"Chest pain, unspecified[78650]"
+"Hypertensive_chronic_kidney_disease,_unspecified,_with_chronic_kidney_disease_stage_I_through_stage_IV,_or_unspecified_40390_",0.0015851499,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified[40390]"
+"Peripheral_vascular_disease,_unspecified_4439_",0.001582795,"Peripheral vascular disease, unspecified[4439]"
+Long_term_(current)_use_of_insulin_Z794_,0.0015717037,Long term (current) use of insulin[Z794]
+Car_passenger_injured_in_collision_with_van_in_traffic_accident_V4364_,0.001565259,Car passenger injured in collision with van in traffic accident[V4364]
+Hypertrophy_(benign)_of_prostate_without_urinary_obstruction_and_other_lower_urinary_tract_symptom_(LUTS)_60000_,0.0015628578,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)[60000]
+race_PORTUGUESE,0.001479768,race_PORTUGUESE
+Personal_history_of_venous_thrombosis_and_embolism_V1251_,0.0014669292,Personal history of venous thrombosis and embolism[V1251]
+Obstructive_sleep_apnea_(adult)(pediatric)_32723_,0.00144273,Obstructive sleep apnea (adult)(pediatric)[32723]
+Other_and_unspecified_coagulation_defects_2869_,0.0014246049,Other and unspecified coagulation defects[2869]
+Lumbago_7242_,0.0014018577,Lumbago[7242]
+Hypoxemia_79902_,0.0013928798,Hypoxemia[79902]
+Personal_history_of_antineoplastic_chemotherapy_V8741_,0.0013926883,Personal history of antineoplastic chemotherapy[V8741]
+Ulcer_of_other_part_of_foot_70715_,0.0013774689,Ulcer of other part of foot[70715]
+Other_chronic_nonalcoholic_liver_disease_5718_,0.0013453417,Other chronic nonalcoholic liver disease[5718]
+Acute_kidney_failure_with_lesion_of_tubular_necrosis_5845_,0.0013170373,Acute kidney failure with lesion of tubular necrosis[5845]
+Hypovolemia_27652_,0.0013004518,Hypovolemia[27652]
+"Encephalopathy,_unspecified_34830_",0.0012793546,"Encephalopathy, unspecified[34830]"
+"Pressure_ulcer,_lower_back_70703_",0.0012728318,"Pressure ulcer, lower back[70703]"
+"Diabetes_with_renal_manifestations,_type_II_or_unspecified_type,_not_stated_as_uncontrolled_25040_",0.0012504265,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled[25040]"
+"Chronic_obstructive_pulmonary_disease,_unspecified_J449_",0.00121622,"Chronic obstructive pulmonary disease, unspecified[J449]"
+Acute_pancreatitis_5770_,0.00121526,Acute pancreatitis[5770]
+"Subendocardial_infarction,_initial_episode_of_care_41071_",0.0012116652,"Subendocardial infarction, initial episode of care[41071]"
+"Asthma,_unspecified_type,_unspecified_49390_",0.0012080261,"Asthma, unspecified type, unspecified[49390]"
+Old_myocardial_infarction_I252_,0.0011802872,Old myocardial infarction[I252]
+race_ASIAN_-_SOUTH_EAST_ASIAN,0.0011557816,race_ASIAN - SOUTH EAST ASIAN
+"Iron_deficiency_anemia,_unspecified_2809_",0.0011523647,"Iron deficiency anemia, unspecified[2809]"
+Hemorrhage_complicating_a_procedure_99811_,0.001110978,Hemorrhage complicating a procedure[99811]
+"Osteoporosis,_unspecified_73300_",0.0011102599,"Osteoporosis, unspecified[73300]"
+"Elevated_white_blood_cell_count,_unspecified_D72829_",0.0011058776,"Elevated white blood cell count, unspecified[D72829]"
+Orthostatic_hypotension_4580_,0.0010806213,Orthostatic hypotension[4580]
+"Sepsis,_unspecified_organism_A419_",0.0010784313,"Sepsis, unspecified organism[A419]"
+Abnormal_coagulation_profile_79092_,0.0010590965,Abnormal coagulation profile[79092]
+Anticoagulants_causing_adverse_effects_in_therapeutic_use_E9342_,0.0010493577,Anticoagulants causing adverse effects in therapeutic use[E9342]
+Dermatitis_due_to_drugs_and_medicines_taken_internally_6930_,0.0010094034,Dermatitis due to drugs and medicines taken internally[6930]
+"Diabetes_mellitus_without_mention_of_complication,_type_II_or_unspecified_type,_not_stated_as_uncontrolled_25000_",0.001002696,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled[25000]"
+Unspecified_hereditary_and_idiopathic_peripheral_neuropathy_3569_,0.0009696913,Unspecified hereditary and idiopathic peripheral neuropathy[3569]
+Dehydration_27651_,0.00096771907,Dehydration[27651]
+Pain_in_limb_7295_,0.00096473936,Pain in limb[7295]
+"Chronic_kidney_disease,_stage_3_(moderate)_N183_",0.0009596528,"Chronic kidney disease, stage 3 (moderate)[N183]"
+Hyperkalemia_E875_,0.0009576047,Hyperkalemia[E875]
+"Hypertensive_chronic_kidney_disease_with_stage_1_through_stage_4_chronic_kidney_disease,_or_unspecified_chronic_kidney_disease_I129_",0.00092633895,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease[I129]"
+Unspecified_glaucoma_3659_,0.0009078424,Unspecified glaucoma[3659]
+Escherichia_coli__E._coli__infection_in_conditions_classified_elsewhere_and_of_unspecified_site_0414_,0.0008969052,Escherichia coli [E. coli] infection in conditions classified elsewhere and of unspecified site[0414]
+"Dementia,_unspecified,_without_behavioral_disturbance_29420_",0.000878438,"Dementia, unspecified, without behavioral disturbance[29420]"
+"Fever,_unspecified_78060_",0.00087578077,"Fever, unspecified[78060]"
+"Osteoarthrosis,_localized,_not_specified_whether_primary_or_secondary,_lower_leg_71536_",0.0008752723,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg[71536]"
+Cirrhosis_of_liver_without_mention_of_alcohol_5715_,0.00087518647,Cirrhosis of liver without mention of alcohol[5715]
+Other_chronic_pain_G8929_,0.0008710187,Other chronic pain[G8929]
+"Epilepsy,_unspecified,_without_mention_of_intractable_epilepsy_34590_",0.0008705423,"Epilepsy, unspecified, without mention of intractable epilepsy[34590]"
+Type_2_diabetes_mellitus_with_diabetic_chronic_kidney_disease_E1122_,0.0008660202,Type 2 diabetes mellitus with diabetic chronic kidney disease[E1122]
+Sepsis_99591_,0.00086130586,Sepsis[99591]
+"Hypotension,_unspecified_I959_",0.0008592555,"Hypotension, unspecified[I959]"
+"Cardiac_complications,_not_elsewhere_classified_9971_",0.0008480889,"Cardiac complications, not elsewhere classified[9971]"
+Aphasia_7843_,0.00083362526,Aphasia[7843]
+Diarrhea_78791_,0.0008238448,Diarrhea[78791]
+"Hypertensive_chronic_kidney_disease,_unspecified,_with_chronic_kidney_disease_stage_V_or_end_stage_renal_disease_40391_",0.0008215499,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease[40391]"
+Background_diabetic_retinopathy_36201_,0.00081007817,Background diabetic retinopathy[36201]
+"Chronic_obstructive_asthma,_unspecified_49320_",0.000805614,"Chronic obstructive asthma, unspecified[49320]"
+Dysthymic_disorder_3004_,0.00076199527,Dysthymic disorder[3004]
+End_stage_renal_disease_5856_,0.00075840653,End stage renal disease[5856]
+Chronic_systolic_heart_failure_42822_,0.0007567625,Chronic systolic heart failure[42822]
+Candidiasis_of_mouth_1120_,0.0007462851,Candidiasis of mouth[1120]
+Cerebral_embolism_with_cerebral_infarction_43411_,0.00073028385,Cerebral embolism with cerebral infarction[43411]
+"Nephritis_and_nephropathy,_not_specified_as_acute_or_chronic,_in_diseases_classified_elsewhere_58381_",0.0007254213,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere[58381]"
+Toxic_encephalopathy_G92_,0.0007239031,Toxic encephalopathy[G92]
+"Diabetes_with_other_specified_manifestations,_type_II_or_unspecified_type,_not_stated_as_uncontrolled_25080_",0.0007224287,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled[25080]"
+Chronic_hepatitis_C_without_mention_of_hepatic_coma_07054_,0.00071031187,Chronic hepatitis C without mention of hepatic coma[07054]
+Mitral_valve_disorders_4240_,0.00067833945,Mitral valve disorders[4240]
+Other_chest_pain_78659_,0.0006657014,Other chest pain[78659]
+"Backache,_unspecified_7245_",0.00065798167,"Backache, unspecified[7245]"
+Old_myocardial_infarction_412_,0.0006562672,Old myocardial infarction[412]
+"Chronic_kidney_disease,_unspecified_5859_",0.00065168674,"Chronic kidney disease, unspecified[5859]"
+Other_convulsions_78039_,0.00063751754,Other convulsions[78039]
+Other_iatrogenic_hypotension_45829_,0.0006273835,Other iatrogenic hypotension[45829]
+"Osteoarthrosis,_unspecified_whether_generalized_or_localized,_site_unspecified_71590_",0.0006230874,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified[71590]"
+Other_and_unspecified_angina_pectoris_4139_,0.00061902334,Other and unspecified angina pectoris[4139]
+Nausea_with_vomiting_78701_,0.0006044497,Nausea with vomiting[78701]
+Other_secondary_thrombocytopenia_D6959_,0.00060204946,Other secondary thrombocytopenia[D6959]
+Altered_mental_status_78097_,0.00060129416,Altered mental status[78097]
+"Thrombocytopenia,_unspecified_D696_",0.00057976,"Thrombocytopenia, unspecified[D696]"
+Other_specified_forms_of_chronic_ischemic_heart_disease_4148_,0.0005770382,Other specified forms of chronic ischemic heart disease[4148]
+Loss_of_weight_78321_,0.0005745677,Loss of weight[78321]
+"Pneumonia,_unspecified_organism_J189_",0.00057426037,"Pneumonia, unspecified organism[J189]"
+Tobacco_use_disorder_3051_,0.00057247997,Tobacco use disorder[3051]
+"Hypotension,_unspecified_4589_",0.0005259546,"Hypotension, unspecified[4589]"
+Polyneuropathy_in_diabetes_3572_,0.00052180485,Polyneuropathy in diabetes[3572]
+"Leukocytosis,_unspecified_28860_",0.00051746384,"Leukocytosis, unspecified[28860]"
+Hyperosmolality_and_hypernatremia_E870_,0.0004175172,Hyperosmolality and hypernatremia[E870]
+Chronic_diastolic_heart_failure_42832_,0.00040910332,Chronic diastolic heart failure[42832]
+Hypokalemia_E876_,0.00026304997,Hypokalemia[E876]
+"Hypertensive_heart_and_chronic_kidney_disease_with_heart_failure_and_stage_1_through_stage_4_chronic_kidney_disease,_or_unspecified_chronic_kidney_disease_I130_",0.00024075233,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease[I130]"
+"Bipolar_disorder,_unspecified_29680_",9.185565e-05,"Bipolar disorder, unspecified[29680]"
+Hypertensive_heart_disease_with_heart_failure_I110_,1.6446675e-05,Hypertensive heart disease with heart failure[I110]
+"Diabetes_mellitus_without_mention_of_complication,_type_II_or_unspecified_type,_uncontrolled_25002_",0.0,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled[25002]"
+"Venous_(peripheral)_insufficiency,_unspecified_45981_",0.0,"Venous (peripheral) insufficiency, unspecified[45981]"
+"Diabetes_with_neurological_manifestations,_type_II_or_unspecified_type,_not_stated_as_uncontrolled_25060_",0.0,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled[25060]"
+Obstructive_chronic_bronchitis_with_(acute)_exacerbation_49121_,0.0,Obstructive chronic bronchitis with (acute) exacerbation[49121]
+race_ASIAN_-_KOREAN,0.0,race_ASIAN - KOREAN
+Unspecified_pleural_effusion_5119_,0.0,Unspecified pleural effusion[5119]
+"Other_diseases_of_lung,_not_elsewhere_classified_51889_",0.0,"Other diseases of lung, not elsewhere classified[51889]"
+Pulmonary_collapse_5180_,0.0,Pulmonary collapse[5180]
+Unspecified_protein-calorie_malnutrition_2639_,0.0,Unspecified protein-calorie malnutrition[2639]
+race_HISPANIC_LATINO_-_CENTRAL_AMERICAN,0.0,race_HISPANIC/LATINO - CENTRAL AMERICAN
+Presence_of_coronary_angioplasty_implant_and_graft_Z955_,0.0,Presence of coronary angioplasty implant and graft[Z955]
+Disorders_of_phosphorus_metabolism_2753_,0.0,Disorders of phosphorus metabolism[2753]
+"Unspecified_gastritis_and_gastroduodenitis,_without_mention_of_hemorrhage_53550_",0.0,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage[53550]"
+Diverticulosis_of_colon_(without_mention_of_hemorrhage)_56210_,0.0,Diverticulosis of colon (without mention of hemorrhage)[56210]
+Other_constipation_56409_,0.0,Other constipation[56409]
+Acute_and_subacute_necrosis_of_liver_570_,0.0,Acute and subacute necrosis of liver[570]
+"Cerebral_artery_occlusion,_unspecified_with_cerebral_infarction_43491_",0.0,"Cerebral artery occlusion, unspecified with cerebral infarction[43491]"
+race_HISPANIC_LATINO_-_GUATEMALAN,0.0,race_HISPANIC/LATINO - GUATEMALAN
+race_HISPANIC_LATINO_-_COLUMBIAN,0.0,race_HISPANIC/LATINO - COLUMBIAN
+Acute_systolic_heart_failure_42821_,0.0,Acute systolic heart failure[42821]
+Other_primary_cardiomyopathies_4254_,0.0,Other primary cardiomyopathies[4254]
+Paroxysmal_ventricular_tachycardia_4271_,0.0,Paroxysmal ventricular tachycardia[4271]
+race_WHITE_-_BRAZILIAN,0.0,race_WHITE - BRAZILIAN
+Unspecified_septicemia_0389_,0.0,Unspecified septicemia[0389]
+race_UNABLE_TO_OBTAIN,0.0,race_UNABLE TO OBTAIN
+Methicillin_susceptible_Staphylococcus_aureus_in_conditions_classified_elsewhere_and_of_unspecified_site_04111_,0.0,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site[04111]
+Atrial_flutter_42732_,0.0,Atrial flutter[42732]
+Acute_on_chronic_systolic_heart_failure_42823_,0.0,Acute on chronic systolic heart failure[42823]
+Unspecified_viral_hepatitis_C_without_hepatic_coma_07070_,0.0,Unspecified viral hepatitis C without hepatic coma[07070]
+race_MULTIPLE_RACE_ETHNICITY,0.0,race_MULTIPLE RACE/ETHNICITY
+race_HISPANIC_LATINO_-_SALVADORAN,0.0,race_HISPANIC/LATINO - SALVADORAN
+Other_and_unspecified_Escherichia_coli__E._coli__04149_,0.0,Other and unspecified Escherichia coli [E. coli][04149]
+race_HISPANIC_LATINO_-_MEXICAN,0.0,race_HISPANIC/LATINO - MEXICAN
+race_HISPANIC_LATINO_-_HONDURAN,0.0,race_HISPANIC/LATINO - HONDURAN
+Alkalosis_2763_,0.0,Alkalosis[2763]
+Acute_on_chronic_diastolic_heart_failure_42833_,0.0,Acute on chronic diastolic heart failure[42833]
+Alcoholic_cirrhosis_of_liver_5712_,0.0,Alcoholic cirrhosis of liver[5712]
+"Chronic_kidney_disease,_Stage_IV_(severe)_5854_",0.0,"Chronic kidney disease, Stage IV (severe)[5854]"
+Portal_hypertension_5723_,0.0,Portal hypertension[5723]
+Other_secondary_thrombocytopenia_28749_,0.0,Other secondary thrombocytopenia[28749]
+Nausea_alone_78702_,0.0,Nausea alone[78702]
+"Dysphagia,_unspecified_78720_",0.0,"Dysphagia, unspecified[78720]"
+"Urinary_incontinence,_unspecified_78830_",0.0,"Urinary incontinence, unspecified[78830]"
+"Abdominal_pain,_unspecified_site_78900_",0.0,"Abdominal pain, unspecified site[78900]"
+Other_abnormal_glucose_79029_,0.0,Other abnormal glucose[79029]
+Nonspecific_elevation_of_levels_of_transaminase_or_lactic_acid_dehydrogenase__LDH__7904_,0.0,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH][7904]
+Bacteremia_7907_,0.0,Bacteremia[7907]
+Acute_kidney_failure_with_tubular_necrosis_N170_,0.0,Acute kidney failure with tubular necrosis[N170]
+"Constipation,_unspecified_K5900_",0.0,"Constipation, unspecified[K5900]"
+Severe_sepsis_99592_,0.0,Severe sepsis[99592]
+Diseases_of_tricuspid_valve_3970_,0.0,Diseases of tricuspid valve[3970]
+Acute_on_chronic_diastolic_(congestive)_heart_failure_I5033_,0.0,Acute on chronic diastolic (congestive) heart failure[I5033]
+Toxic_encephalopathy_34982_,0.0,Toxic encephalopathy[34982]
+Unspecified_accident_E9289_,0.0,Unspecified accident[E9289]
+"Other_and_unspecified_alcohol_dependence,_unspecified_30390_",0.0,"Other and unspecified alcohol dependence, unspecified[30390]"
+"Other_and_unspecified_alcohol_dependence,_continuous_30391_",0.0,"Other and unspecified alcohol dependence, continuous[30391]"
+Adrenal_cortical_steroids_causing_adverse_effects_in_therapeutic_use_E9320_,0.0,Adrenal cortical steroids causing adverse effects in therapeutic use[E9320]
+Other_respiratory_abnormalities_78609_,0.0,Other respiratory abnormalities[78609]
+Personal_history_of_other_malignant_neoplasm_of_skin_V1083_,0.0,Personal history of other malignant neoplasm of skin[V1083]
+Blood_in_stool_5781_,0.0,Blood in stool[5781]
+Septic_shock_78552_,0.0,Septic shock[78552]
+"Hemorrhage_of_gastrointestinal_tract,_unspecified_5789_",0.0,"Hemorrhage of gastrointestinal tract, unspecified[5789]"
+"Chronic_kidney_disease,_Stage_III_(moderate)_5853_",0.0,"Chronic kidney disease, Stage III (moderate)[5853]"
+Other_chronic_pain_33829_,0.0,Other chronic pain[33829]
+Hypertrophy_(benign)_of_prostate_with_urinary_obstruction_and_other_lower_urinary_tract_symptoms_(LUTS)_60001_,0.0,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)[60001]
+"Cellulitis_and_abscess_of_leg,_except_foot_6826_",0.0,"Cellulitis and abscess of leg, except foot[6826]"
+Rheumatoid_arthritis_7140_,0.0,Rheumatoid arthritis[7140]
+"Arthropathy,_unspecified,_site_unspecified_71690_",0.0,"Arthropathy, unspecified, site unspecified[71690]"
+Person_on_outside_of_car_injured_in_collision_with_other_nonmotor_vehicle_in_nontraffic_accident_V462_,0.0,Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident[V462]
+"Myalgia_and_myositis,_unspecified_7291_",0.0,"Myalgia and myositis, unspecified[7291]"
+"Disorder_of_bone_and_cartilage,_unspecified_73390_",0.0,"Disorder of bone and cartilage, unspecified[73390]"
+Other_alteration_of_consciousness_78009_,0.0,Other alteration of consciousness[78009]
+Iron_deficiency_anemia_secondary_to_blood_loss_(chronic)_2800_,0.0,Iron deficiency anemia secondary to blood loss (chronic)[2800]
+Dizziness_and_giddiness_7804_,0.0,Dizziness and giddiness[7804]
+Edema_7823_,0.0,Edema[7823]
+Anemia_in_chronic_kidney_disease_28521_,0.0,Anemia in chronic kidney disease[28521]
+Headache_7840_,0.0,Headache[7840]
+Cardiogenic_shock_78551_,0.0,Cardiogenic shock[78551]
+Other_pulmonary_embolism_and_infarction_41519_,0.0,Other pulmonary embolism and infarction[41519]
