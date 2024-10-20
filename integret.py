@@ -707,6 +707,50 @@ with open('results/common/classification_report_stacking_selected.txt', 'w') as 
     f.write("Classification Report for Stacking Classifier with Selected Features:\n")
     f.write(classification_report(y_test, y_pred_stacking_selected))
 
+
+# ------------------------ Plotting feature importance heatmap ------------------------
+# Get the importance of selected features in both models
+# For Random Forest
+importances_rf_selected = rf_model_selected.feature_importances_
+feature_importances_rf_selected = pd.Series(importances_rf_selected, index=top_n_features).sort_values(ascending=False)
+
+# For XGBoost
+importances_xgb_selected = xgb_model_selected.feature_importances_
+feature_importances_xgb_selected = pd.Series(importances_xgb_selected, index=top_n_features).sort_values(ascending=False)
+
+# Create a DataFrame containing the feature importances of the two models
+feature_importances_df = pd.DataFrame({
+    'Feature': top_n_features,
+    'Random Forest': feature_importances_rf_selected[top_n_features],
+    'XGBoost': feature_importances_xgb_selected[top_n_features]
+})
+
+
+feature_importances_df['Feature_Original'] = feature_importances_df['Feature'].map(cleaned_to_original)
+
+# Set the feature name to index
+feature_importances_df.set_index('Feature_Original', inplace=True)
+
+
+from sklearn.preprocessing import MinMaxScaler
+
+scaler = MinMaxScaler()
+feature_importances_normalized = scaler.fit_transform(feature_importances_df[['Random Forest', 'XGBoost']])
+
+
+feature_importances_df[['Random Forest', 'XGBoost']] = feature_importances_normalized
+
+# heatmap
+plt.figure(figsize=(10, len(top_n_features) * 0.4))
+sns.heatmap(feature_importances_df[['Random Forest', 'XGBoost']], annot=True, cmap='viridis', cbar_kws={'label': 'Normalized Importance'})
+plt.title('Feature Importances Heatmap - Random Forest and XGBoost')
+plt.xlabel('Models')
+plt.ylabel('Features')
+plt.tight_layout()
+plt.savefig('results/common/feature_importances_heatmap.png')
+plt.show()
+
+
 # ------------------------ Validate Features Using Cross-Validation ------------------------
 
 # Cross-validation with Random Forest
