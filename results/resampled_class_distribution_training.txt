@@ -1,0 +1,4 @@
+Class distribution after resampling in the training set:
+stroke
+0    45620
+1    45620

@@ -1,0 +1,4 @@
+Class distribution in the target variable:
+stroke
+0    57026
+1     1725

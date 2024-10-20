@@ -1,0 +1,4 @@
+Class distribution after resampling:
+stroke
+0    57026
+1    57026
